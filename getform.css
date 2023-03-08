@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+.head
+{
+  
+
+    margin-left: 18rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.8rem;
+    font-family: "Inter", sans-serif;
+}
+
+td,th{
+  width: 150px;
+  padding: 10px;
+  color:black;
+}
+h1{
+  color: brown;
+ padding-right: 150px;
+}
